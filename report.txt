@@ -1,0 +1,122 @@
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'U2:RF_Module:ESP-12E'.
+Info: Processing symbol 'U1:QFN28_5X5_SIL'.
+Connected U2 pin 9 to unconnected-(U2-CS0-Pad9).
+Added U1 (footprint 'QFN28_5X5_SIL').
+Changed REF** reference designator to U1.
+Changed U1 value from QFN28_5X5_SIL to CP2102-GM.
+Updated U1 symbol association from  to /74194f11-7019-4ceb-bb89-ae51af578aa0.
+Updated U1 fields.
+Updated U1 sheetname to 'Root'.
+Updated U1 sheetfile to 'esp_12E.kicad_sch'.
+Updated U1 footprint filters to 'QFN28_5X5_SIL QFN28_5X5_SIL-M QFN28_5X5_SIL-L'.
+Add net GND.
+Connected U1 pin 3 to GND.
+Add net unconnected-(U1-DSR-Pad27).
+Connected U1 pin 27 to unconnected-(U1-DSR-Pad27).
+Add net unconnected-(U1-NC-Pad22).
+Connected U1 pin 22 to unconnected-(U1-NC-Pad22).
+Add net unconnected-(U1-*RST-Pad9).
+Connected U1 pin 9 to unconnected-(U1-*RST-Pad9).
+Add net unconnected-(U1-CTS-Pad23).
+Connected U1 pin 23 to unconnected-(U1-CTS-Pad23).
+Add net unconnected-(U1-VDD-Pad6).
+Connected U1 pin 6 to unconnected-(U1-VDD-Pad6).
+Add net unconnected-(U1-D+-Pad4).
+Connected U1 pin 4 to unconnected-(U1-D+-Pad4).
+Add net unconnected-(U1-NC-Pad21).
+Connected U1 pin 21 to unconnected-(U1-NC-Pad21).
+Add net unconnected-(U1-NC-Pad16).
+Connected U1 pin 16 to unconnected-(U1-NC-Pad16).
+Add net unconnected-(U1-RTS-Pad24).
+Connected U1 pin 24 to unconnected-(U1-RTS-Pad24).
+Add net unconnected-(U1-D--Pad5).
+Connected U1 pin 5 to unconnected-(U1-D--Pad5).
+Add net unconnected-(U1-RI-Pad2).
+Connected U1 pin 2 to unconnected-(U1-RI-Pad2).
+Add net unconnected-(U1-NC-Pad17).
+Connected U1 pin 17 to unconnected-(U1-NC-Pad17).
+Add net unconnected-(U1-NC-Pad14).
+Connected U1 pin 14 to unconnected-(U1-NC-Pad14).
+Add net unconnected-(U1-DCD-Pad1).
+Connected U1 pin 1 to unconnected-(U1-DCD-Pad1).
+Add net unconnected-(U1-NC/VPP-Pad18).
+Connected U1 pin 18 to unconnected-(U1-NC/VPP-Pad18).
+Add net unconnected-(U1-NC-Pad20).
+Connected U1 pin 20 to unconnected-(U1-NC-Pad20).
+Add net unconnected-(U1-NC-Pad10).
+Connected U1 pin 10 to unconnected-(U1-NC-Pad10).
+Add net unconnected-(U1-DTR-Pad28).
+Connected U1 pin 28 to unconnected-(U1-DTR-Pad28).
+Add net unconnected-(U1-NC-Pad13).
+Connected U1 pin 13 to unconnected-(U1-NC-Pad13).
+Add net unconnected-(U1-RXD-Pad25).
+Connected U1 pin 25 to unconnected-(U1-RXD-Pad25).
+Add net unconnected-(U1-SUSPEND-Pad12).
+Connected U1 pin 12 to unconnected-(U1-SUSPEND-Pad12).
+Add net unconnected-(U1-TXD-Pad26).
+Connected U1 pin 26 to unconnected-(U1-TXD-Pad26).
+Add net unconnected-(U1-VBUS-Pad8).
+Connected U1 pin 8 to unconnected-(U1-VBUS-Pad8).
+Add net unconnected-(U1-NC-Pad15).
+Connected U1 pin 15 to unconnected-(U1-NC-Pad15).
+Add net unconnected-(U1-*SUSPEND-Pad11).
+Connected U1 pin 11 to unconnected-(U1-*SUSPEND-Pad11).
+Add net unconnected-(U1-REGIN-Pad7).
+Connected U1 pin 7 to unconnected-(U1-REGIN-Pad7).
+Add net unconnected-(U1-NC-Pad19).
+Connected U1 pin 19 to unconnected-(U1-NC-Pad19).
+Added U2 (footprint 'RF_Module:ESP-12E').
+Changed REF** reference designator to U2.
+Updated U2 symbol association from  to /d5ccd0fb-11e1-4390-a8f0-2046827e7698.
+Updated U2 fields.
+Updated U2 sheetname to 'Root'.
+Updated U2 sheetfile to 'esp_12E.kicad_sch'.
+Updated U2 footprint filters to 'ESP?12*'.
+Add net unconnected-(U2-~{RST}-Pad1).
+Connected U2 pin 1 to unconnected-(U2-~{RST}-Pad1).
+Add net unconnected-(U2-MISO-Pad10).
+Connected U2 pin 10 to unconnected-(U2-MISO-Pad10).
+Add net unconnected-(U2-SCLK-Pad14).
+Connected U2 pin 14 to unconnected-(U2-SCLK-Pad14).
+Add net unconnected-(U2-GPIO1/TXD-Pad22).
+Connected U2 pin 22 to unconnected-(U2-GPIO1/TXD-Pad22).
+Add net unconnected-(U2-GPIO4-Pad19).
+Connected U2 pin 19 to unconnected-(U2-GPIO4-Pad19).
+Add net unconnected-(U2-GPIO2-Pad17).
+Connected U2 pin 17 to unconnected-(U2-GPIO2-Pad17).
+Add net unconnected-(U2-VCC-Pad8).
+Connected U2 pin 8 to unconnected-(U2-VCC-Pad8).
+Add net unconnected-(U2-GPIO10-Pad12).
+Connected U2 pin 12 to unconnected-(U2-GPIO10-Pad12).
+Add net unconnected-(U2-GPIO3/RXD-Pad21).
+Connected U2 pin 21 to unconnected-(U2-GPIO3/RXD-Pad21).
+Add net unconnected-(U2-GPIO14-Pad5).
+Connected U2 pin 5 to unconnected-(U2-GPIO14-Pad5).
+Add net unconnected-(U2-GPIO16-Pad4).
+Connected U2 pin 4 to unconnected-(U2-GPIO16-Pad4).
+Add net unconnected-(U2-MOSI-Pad13).
+Connected U2 pin 13 to unconnected-(U2-MOSI-Pad13).
+Add net unconnected-(U2-EN-Pad3).
+Connected U2 pin 3 to unconnected-(U2-EN-Pad3).
+Add net unconnected-(U2-GPIO9-Pad11).
+Connected U2 pin 11 to unconnected-(U2-GPIO9-Pad11).
+Add net unconnected-(U2-ADC-Pad2).
+Connected U2 pin 2 to unconnected-(U2-ADC-Pad2).
+Add net unconnected-(U2-GPIO15-Pad16).
+Connected U2 pin 16 to unconnected-(U2-GPIO15-Pad16).
+Add net unconnected-(U2-GPIO13-Pad7).
+Connected U2 pin 7 to unconnected-(U2-GPIO13-Pad7).
+Add net unconnected-(U2-GPIO0-Pad18).
+Connected U2 pin 18 to unconnected-(U2-GPIO0-Pad18).
+Add net unconnected-(U2-GPIO12-Pad6).
+Connected U2 pin 6 to unconnected-(U2-GPIO12-Pad6).
+Connected U2 pin 15 to GND.
+Add net unconnected-(U2-GPIO5-Pad20).
+Connected U2 pin 20 to unconnected-(U2-GPIO5-Pad20).
+Add net unconnected-(U2-CS0-Pad9).
+Warning: No net found for component U1 pad 29 (no pin 29 in symbol).
+Error: Cannot add J1 (no footprint assigned).
+
+
+Info: Total warnings: 1, errors: 1.
